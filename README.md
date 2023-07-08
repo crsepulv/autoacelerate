@@ -1,4 +1,4 @@
-# autoacelerate
+# Autoacelerate
 Autoacelera tu startup
 
 # Programa de Aceleración
@@ -27,6 +27,9 @@ Autoacelera tu startup
 
 ### [5. Finanzas y Fundraising](#finanzas-y-fundraising)
    - [Gestión Financiera y Presupuestación](#gestión-financiera-y-presupuestación)
+   - [Unit Economics](#unit-economics)
+   - [Creación del Dataroom](#creación-del-dataroom)
+   - [Preparación de la Cap Table](#preparación-de-la-cap-table)
    - [Preparación para la Recaudación de Fondos](#preparación-para-la-recaudación-de-fondos)
    - [Negociación y Gestión de Inversiones](#negociación-y-gestión-de-inversiones)
 
